@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bamaster-web:war">
+    <output-path>$PROJECT_DIR$/bamaster-web/target</output-path>
+    <root id="archive" name="bamaster-web.war">
+      <element id="artifact" artifact-name="bamaster-web:war exploded" />
+    </root>
+  </artifact>
+</component>
